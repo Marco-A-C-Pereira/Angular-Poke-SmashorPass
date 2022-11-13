@@ -1,0 +1,15 @@
+p {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 12px;
+  text-shadow: 0 1px 2px black;
+}
+
+.type-apperence{
+  background-color: grey;
+  padding: 8px 20px;
+  border-radius: 10%;
+
+  box-shadow: 0 2px 5px #0000005d;
+}
